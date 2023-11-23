@@ -821,14 +821,16 @@ Total & Km-1 & SQT &  &   \\
 
 \begin{itemize}
 \item Testando \textit{m} hipóteses
-\[H_1, H_2, \ldots, H_3\]
+\[H_1, H_2, \ldots, H_m\]
 \item Os \textit{Valores-P}
-\[p_1, p_2, \ldots, p_3\]
+\[p_1, p_2, \ldots, p_m\]
+\item Ordenar os \textit{Valores-P}
+\[p_{(1)} \leq p_{(2)} \leq \ldots \leq p_{(m)}\]
 \item Seja \(\alpha\) a taxa de falsas descobertas (FDR) que se quer controlar, encontre
 \[p_{(i)} \leq \frac{i}{m}\alpha\]
 \item Faça o Valor-P correspondente o ponto de corte, a taxa FDR está controlada em \(\alpha\). 
 \end{itemize}
-
+\blfootnote{\url{https://en.wikipedia.org/wiki/False_discovery_rate}}
 \end{frame}
 
 \setbeamercovered{transparent}
