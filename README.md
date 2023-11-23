@@ -16,7 +16,7 @@ Após se familiarizar com o notebook, o usuário pode acessar o notebook da aula
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/computational-chemical-biology/analise_univariada/blob/master/Analise_univariada.ipynb)
 
-Os dados das aulas estão no arquivo `[dados.zip](https://github.com/computational-chemical-biology/analise_univariada/raw/master/dados.zip)`.
+Os dados das aulas estão no arquivo [dados.zip](https://github.com/computational-chemical-biology/analise_univariada/raw/master/dados.zip).
 
 ## Referências
 
@@ -26,6 +26,3 @@ Os dados das aulas estão no arquivo `[dados.zip](https://github.com/computation
 
 [Jan Walach, Peter Filzmoser, Karel Hron. Data Normalization and Scaling: Consequences for the Analysis in Omics Sciences. Comprehensive Analytical Chemistry
 Volume 82, 2018, Pages 165-196](https://www.sciencedirect.com/science/article/pii/S0166526X18300606)
-
-
-
